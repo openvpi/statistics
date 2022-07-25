@@ -57,7 +57,7 @@ def update():
 
     # Write back new data
     history_data['date'] = today_fmt
-    with open('data_new.json', 'w', encoding='utf-8') as f:
+    with open('data.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(history_data, ensure_ascii=False, indent=2))
 
 
