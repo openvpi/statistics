@@ -1,0 +1,131 @@
+{
+  "date": "2022-07-25",
+  "converter": {
+    "filename": "converter",
+    "display": "OpenSVIP 歌声合成工程文件转换器",
+    "downloads": {
+      "recent": [
+        11,
+        17,
+        19,
+        18,
+        15,
+        18,
+        16
+      ],
+      "total": 157
+    }
+  },
+  "plugins": [
+    {
+      "identifier": "ace",
+      "filename": "plugin_ace",
+      "display": "ACE Studio 工程文件",
+      "downloads": {
+        "yesterday": 17,
+        "weekly": 69,
+        "total": 96
+      }
+    },
+    {
+      "identifier": "gj",
+      "filename": "plugin_gjgj",
+      "display": "歌叽歌叽工程文件",
+      "downloads": {
+        "yesterday": 2,
+        "weekly": 21,
+        "total": 30
+      }
+    },
+    {
+      "identifier": "json",
+      "filename": "plugin_jsonsvip",
+      "display": "OpenSVIP Model 文件",
+      "downloads": {
+        "yesterday": 3,
+        "weekly": 11,
+        "total": 22
+      }
+    },
+    {
+      "identifier": "lrc",
+      "filename": "plugin_lrc",
+      "display": "LRC 歌词文件",
+      "downloads": {
+        "yesterday": 3,
+        "weekly": 25,
+        "total": 39
+      }
+    },
+    {
+      "identifier": "midi",
+      "filename": "plugin_midi",
+      "display": "MIDI 文件",
+      "downloads": {
+        "yesterday": 9,
+        "weekly": 53,
+        "total": 91
+      }
+    },
+    {
+      "identifier": "srt",
+      "filename": "plugin_srt",
+      "display": "SRT 字幕文件",
+      "downloads": {
+        "yesterday": 2,
+        "weekly": 0,
+        "total": 3
+      }
+    },
+    {
+      "identifier": "svip",
+      "filename": "plugin_binsvip",
+      "display": "X Studio 工程文件",
+      "downloads": {
+        "yesterday": 7,
+        "weekly": 36,
+        "total": 54
+      }
+    },
+    {
+      "identifier": "svp",
+      "filename": "plugin_synthv",
+      "display": "Synthesizer V 工程文件",
+      "downloads": {
+        "yesterday": 7,
+        "weekly": 52,
+        "total": 79
+      }
+    },
+    {
+      "identifier": "ustx",
+      "filename": "plugin_ustx",
+      "display": "OpenUTAU 工程文件",
+      "downloads": {
+        "yesterday": 3,
+        "weekly": 5,
+        "total": 20
+      }
+    },
+    {
+      "identifier": "vog",
+      "filename": "plugin_vogen",
+      "display": "Project Vogen 工程文件",
+      "downloads": {
+        "yesterday": 1,
+        "weekly": 13,
+        "total": 22
+      }
+    },
+    {
+      "identifier": "y77",
+      "filename": "plugin_y77",
+      "display": "元七七工程文件",
+      "downloads": {
+        "yesterday": 1,
+        "weekly": 6,
+        "total": 13
+      }
+    }
+  ]
+}
