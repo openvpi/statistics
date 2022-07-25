@@ -6,8 +6,8 @@ from qcloud_cos import CosS3Client
 from qcloud_cos.cos_threadpool import SimpleThreadPool
 
 
-secret_id = os.environ.get('secrets.COS_SECRET_ID')
-secret_key = os.environ.get('secrets.COS_SECRET_KEY')
+secret_id = os.environ.get('COS_SECRET_ID')
+secret_key = os.environ.get('COS_SECRET_KEY')
 if secret_id is None or secret_key is None:
     with open('secret', 'r') as f:
         secret_id = f.readline().strip()
