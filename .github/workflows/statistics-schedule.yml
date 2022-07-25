@@ -27,6 +27,11 @@ jobs:
     - name: Run Python scripts
       run: |
         python ./update.py
-    - name: Commit to GitHub
+    - name: Push back to repository
       run: |
-        export TZ='Asia/Shanghai' && git add . && git commit -m "Statistics of $(date -d "1 day ago" +"%y-%m-%d")" && git push --force
+        export TZ='Asia/Shanghai'
+        git config --global user.email "openvpi@outlook.com"
+        git config --global user.name "Bot"
+        git add .
+        git commit -m "Statistics of $(date -d "1 day ago" +"%y-%m-%d")"
+        git push --force
