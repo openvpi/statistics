@@ -1,14 +1,18 @@
 import datetime
 import json
 
+import pytz
+
 import analysis
 import download
 
 
 def update():
     # Get yesterday
-    today = datetime.date.today()
+    tz = pytz.timezone('Asia/Shanghai')
+    today = datetime.datetime.now(tz=tz)
     today_fmt = today.strftime('%Y-%m-%d')
+    print('Today is:', today_fmt)
     yesterday = (today - datetime.timedelta(days=1))
     yesterday_fmt = yesterday.strftime('%Y-%m-%d')
 
@@ -22,6 +26,8 @@ def update():
     # Download and analysis log
     download.downloadDirFromCos(yesterday_fmt.replace('-', '/'))
     yesterday_data = analysis.analysisDate(yesterday_fmt)
+    for item in yesterday_data:
+        print(item)
 
     # Initialize numbers
     converter = history_data['converter']
@@ -51,11 +57,8 @@ def update():
 
     # Write back new data
     history_data['date'] = today_fmt
-    with open('data.json', 'w', encoding='utf-8') as f:
+    with open('data_new.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(history_data, ensure_ascii=False, indent=2))
-
-    for item in yesterday_data:
-        print(item)
 
 
 if __name__ == '__main__':
