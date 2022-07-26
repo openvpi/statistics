@@ -31,7 +31,7 @@ def update():
 
     # Initialize numbers
     converter = history_data['converter']
-    if len(converter['downloads']['recent']) >= 7:
+    if len(converter['downloads']['recent']) >= 10:
         converter['downloads']['recent'] = converter['downloads']['recent'][1:]
     converter['downloads']['recent'].append(0)
 
