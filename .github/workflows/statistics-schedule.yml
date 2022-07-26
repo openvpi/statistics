@@ -33,5 +33,5 @@ jobs:
         git config --global user.email "openvpi@outlook.com"
         git config --global user.name "bot"
         git add .
-        git commit -m "Statistics of $(date -d "1 day ago" +"%y-%m-%d")"
+        git commit -m "Statistics of $(date -d "1 day ago" +"%Y-%m-%d")"
         git push --force
