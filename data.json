@@ -1,11 +1,10 @@
 {
-  "date": "2022-09-04",
+  "date": "2022-09-05",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        14,
         14,
         43,
         28,
@@ -14,9 +13,10 @@
         19,
         14,
         12,
+        8,
         8
       ],
-      "total": 661
+      "total": 669
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 7,
-        "weekly": 46,
-        "total": 464
+        "yesterday": 4,
+        "weekly": 53,
+        "total": 468
       }
     },
     {
@@ -35,9 +35,9 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 13,
-        "total": 125
+        "total": 126
       }
     },
     {
@@ -45,9 +45,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 12,
-        "total": 112
+        "total": 113
       }
     },
     {
@@ -56,8 +56,8 @@
       "display": "LRC 歌词文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 11,
-        "total": 121
+        "weekly": 12,
+        "total": 122
       }
     },
     {
@@ -66,8 +66,8 @@
       "display": "MIDI 文件",
       "downloads": {
         "yesterday": 4,
-        "weekly": 35,
-        "total": 378
+        "weekly": 39,
+        "total": 382
       }
     },
     {
@@ -85,8 +85,8 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 14,
+        "yesterday": 0,
+        "weekly": 17,
         "total": 212
       }
     },
@@ -95,9 +95,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 7,
-        "weekly": 31,
-        "total": 353
+        "yesterday": 3,
+        "weekly": 38,
+        "total": 356
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 8,
-        "total": 110
+        "total": 112
       }
     },
     {
