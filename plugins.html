@@ -115,7 +115,7 @@ $.getJSON('./data.json', function (data) {
         ]
     }
 
-    data.plugins.sort((x, y) => x.downloads.weekly > y.downloads.weekly ? -1 : 1)
+    data.plugins.sort((x, y) => y.downloads.weekly - x.downloads.weekly)
 
     for (const index in data.plugins) {
         let plugin = data.plugins[index];
