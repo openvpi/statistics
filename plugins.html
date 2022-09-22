@@ -110,13 +110,12 @@ $.getJSON('./data.json', function (data) {
             {
                 name: '本周下载量',
                 color: '#0d47a1',
-                data: [] /* ,
-                dataSorting: {
-                    enabled: true
-                } */
+                data: []
             }
         ]
     }
+
+    data.plugins.sort((x, y) => x.downloads.weekly > y.downloads.weekly ? -1 : 1)
 
     for (const index in data.plugins) {
         let plugin = data.plugins[index];
