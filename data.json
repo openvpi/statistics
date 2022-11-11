@@ -1,11 +1,10 @@
 {
-  "date": "2022-11-11",
+  "date": "2022-11-12",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        7,
         4,
         6,
         10,
@@ -14,9 +13,10 @@
         6,
         7,
         11,
-        8
+        8,
+        10
       ],
-      "total": 1176
+      "total": 1186
     }
   },
   "plugins": [
@@ -26,8 +26,8 @@
       "display": "ACE Studio 工程文件",
       "downloads": {
         "yesterday": 4,
-        "weekly": 9,
-        "total": 649
+        "weekly": 13,
+        "total": 653
       }
     },
     {
@@ -45,9 +45,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 3,
-        "total": 185
+        "total": 186
       }
     },
     {
@@ -55,9 +55,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 2,
-        "total": 199
+        "total": 200
       }
     },
     {
@@ -66,8 +66,8 @@
       "display": "MIDI 文件",
       "downloads": {
         "yesterday": 6,
-        "weekly": 9,
-        "total": 677
+        "weekly": 15,
+        "total": 683
       }
     },
     {
@@ -85,9 +85,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 3,
         "weekly": 3,
-        "total": 326
+        "total": 329
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 6,
-        "total": 545
+        "yesterday": 5,
+        "weekly": 9,
+        "total": 550
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 2,
-        "total": 191
+        "yesterday": 2,
+        "weekly": 3,
+        "total": 193
       }
     },
     {
