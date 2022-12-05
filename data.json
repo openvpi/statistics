@@ -31,6 +31,16 @@
       }
     },
     {
+      "identifier": "diffsinger",
+      "filename": "plugin_diffsinger",
+      "display": "DiffSinger 参数文件",
+      "downloads": {
+        "yesterday": 0,
+        "weekly": 0,
+        "total": 0
+      }
+    },
+    {
       "identifier": "gj",
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
