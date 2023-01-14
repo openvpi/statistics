@@ -1,11 +1,10 @@
 {
-  "date": "2023-01-14",
+  "date": "2023-01-15",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        14,
         11,
         8,
         10,
@@ -14,9 +13,10 @@
         3,
         8,
         12,
-        17
+        17,
+        6
       ],
-      "total": 1785
+      "total": 1791
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 11,
-        "total": 810
+        "yesterday": 1,
+        "weekly": 13,
+        "total": 811
       }
     },
     {
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 15,
-        "total": 159
+        "yesterday": 3,
+        "weekly": 19,
+        "total": 162
       }
     },
     {
@@ -55,9 +55,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 6,
-        "total": 269
+        "yesterday": 1,
+        "weekly": 8,
+        "total": 270
       }
     },
     {
@@ -65,8 +65,8 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 5,
+        "yesterday": 0,
+        "weekly": 6,
         "total": 274
       }
     },
@@ -75,8 +75,8 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 5,
-        "weekly": 19,
+        "yesterday": 0,
+        "weekly": 24,
         "total": 955
       }
     },
@@ -95,9 +95,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 12,
-        "total": 505
+        "yesterday": 1,
+        "weekly": 15,
+        "total": 506
       }
     },
     {
@@ -106,8 +106,8 @@
       "display": "X Studio 3 工程文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 8,
-        "total": 212
+        "weekly": 9,
+        "total": 213
       }
     },
     {
@@ -115,8 +115,8 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 12,
+        "yesterday": 0,
+        "weekly": 13,
         "total": 763
       }
     },
@@ -125,9 +125,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 9,
-        "total": 286
+        "yesterday": 1,
+        "weekly": 11,
+        "total": 287
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_vogen",
       "display": "Project Vogen 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 3,
-        "total": 176
+        "total": 177
       }
     },
     {
