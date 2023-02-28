@@ -1,11 +1,10 @@
 {
-  "date": "2023-02-28",
+  "date": "2023-03-01",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        23,
         15,
         18,
         13,
@@ -14,9 +13,10 @@
         14,
         36,
         28,
-        16
+        16,
+        24
       ],
-      "total": 2752
+      "total": 2776
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 0,
-        "total": 941
+        "total": 943
       }
     },
     {
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 12,
-        "weekly": 0,
-        "total": 703
+        "yesterday": 10,
+        "weekly": 12,
+        "total": 713
       }
     },
     {
@@ -45,9 +45,9 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 0,
-        "total": 430
+        "yesterday": 3,
+        "weekly": 1,
+        "total": 433
       }
     },
     {
@@ -56,8 +56,8 @@
       "display": "OpenSVIP Model 文件",
       "downloads": {
         "yesterday": 3,
-        "weekly": 0,
-        "total": 445
+        "weekly": 3,
+        "total": 448
       }
     },
     {
@@ -65,9 +65,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
-        "total": 437
+        "yesterday": 3,
+        "weekly": 2,
+        "total": 440
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 0,
-        "total": 1262
+        "yesterday": 8,
+        "weekly": 4,
+        "total": 1270
       }
     },
     {
@@ -85,9 +85,9 @@
       "filename": "plugin_srt",
       "display": "SRT 字幕文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
-        "total": 300
+        "yesterday": 3,
+        "weekly": 2,
+        "total": 303
       }
     },
     {
@@ -95,9 +95,9 @@
       "filename": "plugin_svg",
       "display": "可缩放矢量图形",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
-        "total": 13
+        "yesterday": 3,
+        "weekly": 2,
+        "total": 16
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 0,
-        "total": 825
+        "yesterday": 6,
+        "weekly": 3,
+        "total": 831
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 0,
-        "total": 413
+        "yesterday": 3,
+        "weekly": 4,
+        "total": 416
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 0,
-        "total": 1100
+        "yesterday": 5,
+        "weekly": 4,
+        "total": 1105
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 0,
-        "total": 493
+        "yesterday": 7,
+        "weekly": 4,
+        "total": 500
       }
     },
     {
@@ -145,9 +145,9 @@
       "filename": "plugin_vogen",
       "display": "Project Vogen 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 0,
-        "total": 284
+        "yesterday": 3,
+        "weekly": 1,
+        "total": 287
       }
     },
     {
@@ -155,9 +155,9 @@
       "filename": "plugin_y77",
       "display": "元七七工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
-        "total": 257
+        "yesterday": 3,
+        "weekly": 2,
+        "total": 260
       }
     }
   ]
