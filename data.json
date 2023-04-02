@@ -1,11 +1,10 @@
 {
-  "date": "2023-04-02",
+  "date": "2023-04-03",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        46,
         11,
         14,
         16,
@@ -14,9 +13,10 @@
         14,
         12,
         6,
-        12
+        12,
+        14
       ],
-      "total": 3244
+      "total": 3258
     }
   },
   "plugins": [
@@ -25,8 +25,8 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 8,
+        "yesterday": 0,
+        "weekly": 11,
         "total": 1009
       }
     },
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 23,
-        "total": 920
+        "yesterday": 3,
+        "weekly": 25,
+        "total": 923
       }
     },
     {
@@ -45,9 +45,9 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 6,
-        "total": 486
+        "yesterday": 3,
+        "weekly": 7,
+        "total": 489
       }
     },
     {
@@ -55,9 +55,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 7,
-        "total": 505
+        "yesterday": 2,
+        "weekly": 8,
+        "total": 507
       }
     },
     {
@@ -65,9 +65,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 6,
-        "total": 517
+        "yesterday": 2,
+        "weekly": 7,
+        "total": 519
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 9,
-        "weekly": 15,
-        "total": 1417
+        "yesterday": 4,
+        "weekly": 24,
+        "total": 1421
       }
     },
     {
@@ -85,9 +85,9 @@
       "filename": "plugin_srt",
       "display": "SRT 字幕文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 4,
-        "total": 349
+        "total": 351
       }
     },
     {
@@ -95,9 +95,9 @@
       "filename": "plugin_svg",
       "display": "可缩放矢量图形",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 5,
-        "total": 68
+        "total": 70
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 13,
-        "total": 952
+        "yesterday": 4,
+        "weekly": 15,
+        "total": 956
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 6,
-        "total": 478
+        "yesterday": 5,
+        "weekly": 8,
+        "total": 483
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 18,
-        "total": 1244
+        "yesterday": 6,
+        "weekly": 21,
+        "total": 1250
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 15,
-        "total": 621
+        "yesterday": 5,
+        "weekly": 17,
+        "total": 626
       }
     },
     {
@@ -145,9 +145,9 @@
       "filename": "plugin_vogen",
       "display": "Project Vogen 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 4,
-        "total": 327
+        "yesterday": 2,
+        "weekly": 5,
+        "total": 329
       }
     },
     {
@@ -155,9 +155,9 @@
       "filename": "plugin_y77",
       "display": "元七七工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 4,
-        "total": 294
+        "total": 295
       }
     }
   ]
