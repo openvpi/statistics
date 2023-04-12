@@ -1,11 +1,10 @@
 {
-  "date": "2023-04-12",
+  "date": "2023-04-13",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        14,
         6,
         13,
         14,
@@ -14,9 +13,10 @@
         6,
         10,
         12,
-        5
+        5,
+        9
       ],
-      "total": 3343
+      "total": 3352
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 1,
-        "total": 1021
+        "total": 1022
       }
     },
     {
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 6,
-        "total": 969
+        "yesterday": 4,
+        "weekly": 9,
+        "total": 973
       }
     },
     {
@@ -45,9 +45,9 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 1,
-        "total": 506
+        "total": 507
       }
     },
     {
@@ -65,8 +65,8 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 5,
+        "yesterday": 0,
+        "weekly": 6,
         "total": 537
       }
     },
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 7,
-        "total": 1459
+        "yesterday": 6,
+        "weekly": 8,
+        "total": 1465
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 4,
-        "total": 985
+        "yesterday": 4,
+        "weekly": 6,
+        "total": 989
       }
     },
     {
@@ -116,8 +116,8 @@
       "display": "X Studio 3 工程文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 4,
-        "total": 498
+        "weekly": 5,
+        "total": 499
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 4,
-        "total": 1287
+        "yesterday": 2,
+        "weekly": 5,
+        "total": 1289
       }
     },
     {
@@ -136,8 +136,8 @@
       "display": "OpenUTAU 工程文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 4,
-        "total": 652
+        "weekly": 5,
+        "total": 653
       }
     },
     {
