@@ -1,11 +1,10 @@
 {
-  "date": "2023-04-14",
+  "date": "2023-04-15",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        13,
         14,
         11,
         8,
@@ -14,9 +13,10 @@
         12,
         5,
         9,
-        6
+        6,
+        14
       ],
-      "total": 3358
+      "total": 3372
     }
   },
   "plugins": [
@@ -25,8 +25,8 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 2,
+        "yesterday": 0,
+        "weekly": 3,
         "total": 1023
       }
     },
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 13,
-        "total": 974
+        "yesterday": 2,
+        "weekly": 14,
+        "total": 976
       }
     },
     {
@@ -45,8 +45,8 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 2,
+        "yesterday": 0,
+        "weekly": 4,
         "total": 509
       }
     },
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 14,
-        "total": 1466
+        "yesterday": 3,
+        "weekly": 15,
+        "total": 1469
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 10,
-        "total": 989
+        "total": 991
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 6,
-        "total": 499
+        "total": 500
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 5,
         "weekly": 7,
-        "total": 1289
+        "total": 1294
       }
     },
     {
@@ -136,8 +136,8 @@
       "display": "OpenUTAU 工程文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 6,
-        "total": 654
+        "weekly": 7,
+        "total": 655
       }
     },
     {
