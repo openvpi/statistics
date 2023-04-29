@@ -1,11 +1,10 @@
 {
-  "date": "2023-04-29",
+  "date": "2023-04-30",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        7,
         6,
         11,
         11,
@@ -14,9 +13,10 @@
         14,
         5,
         5,
-        10
+        10,
+        15
       ],
-      "total": 3487
+      "total": 3502
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 9,
-        "total": 1050
+        "yesterday": 5,
+        "weekly": 12,
+        "total": 1055
       }
     },
     {
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 6,
-        "total": 1004
+        "yesterday": 5,
+        "weekly": 8,
+        "total": 1009
       }
     },
     {
@@ -45,9 +45,9 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 2,
-        "total": 524
+        "yesterday": 2,
+        "weekly": 5,
+        "total": 526
       }
     },
     {
@@ -55,9 +55,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 3,
-        "total": 537
+        "yesterday": 1,
+        "weekly": 6,
+        "total": 538
       }
     },
     {
@@ -65,9 +65,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 4,
-        "total": 556
+        "yesterday": 4,
+        "weekly": 7,
+        "total": 560
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 20,
-        "total": 1529
+        "yesterday": 7,
+        "weekly": 24,
+        "total": 1536
       }
     },
     {
@@ -85,9 +85,9 @@
       "filename": "plugin_srt",
       "display": "SRT 字幕文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 2,
-        "total": 378
+        "yesterday": 2,
+        "weekly": 5,
+        "total": 380
       }
     },
     {
@@ -95,9 +95,9 @@
       "filename": "plugin_svg",
       "display": "可缩放矢量图形",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 2,
-        "total": 95
+        "yesterday": 1,
+        "weekly": 5,
+        "total": 96
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 6,
-        "weekly": 8,
-        "total": 1020
+        "yesterday": 2,
+        "weekly": 14,
+        "total": 1022
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 9,
-        "weekly": 5,
-        "total": 525
+        "yesterday": 2,
+        "weekly": 14,
+        "total": 527
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 7,
-        "weekly": 12,
-        "total": 1336
+        "yesterday": 6,
+        "weekly": 19,
+        "total": 1342
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 6,
-        "weekly": 11,
-        "total": 690
+        "yesterday": 5,
+        "weekly": 17,
+        "total": 695
       }
     },
     {
@@ -145,9 +145,9 @@
       "filename": "plugin_vogen",
       "display": "Project Vogen 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 2,
-        "total": 350
+        "yesterday": 1,
+        "weekly": 5,
+        "total": 351
       }
     },
     {
@@ -155,9 +155,9 @@
       "filename": "plugin_y77",
       "display": "元七七工程文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 2,
-        "total": 316
+        "yesterday": 2,
+        "weekly": 6,
+        "total": 318
       }
     }
   ]
