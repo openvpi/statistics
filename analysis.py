@@ -21,15 +21,15 @@ def group(ls, key):
 def parse(line):
     item = shlex.split(line)
     if item[5] == 'GETObject' and not item[11].startswith('/log') and item[14].startswith('2'):
-        product_full_name = re.search(r'opensvip_((converter)|(plugin_[\da-z]*))_\d+\.\d+\.\d+', item[11]).group()
-        return True, {
-            'time': item[3],
-            'ip': item[6],
-            'product': product_full_name[9:],
-            'agent': item[13]
-        }
-    else:
-        return False, None
+        product_full_name = re.search(r'opensvip_((converter)|(plugin_[\da-z]*))_\d+\.\d+\.\d+', item[11])
+        if product_full_name is not None:
+            return True, {
+                'time': item[3],
+                'ip': item[6],
+                'product': product_full_name.group()[9:],
+                'agent': item[13]
+            }
+    return False, None
 
 
 def read(path):
