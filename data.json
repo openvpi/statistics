@@ -1,11 +1,10 @@
 {
-  "date": "2023-05-08",
+  "date": "2023-05-09",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        10,
         15,
         7,
         8,
@@ -14,9 +13,10 @@
         15,
         2,
         20,
-        30
+        30,
+        24
       ],
-      "total": 3600
+      "total": 3624
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 9,
-        "weekly": 7,
-        "total": 1071
+        "yesterday": 2,
+        "weekly": 0,
+        "total": 1073
       }
     },
     {
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 6,
-        "weekly": 12,
-        "total": 1028
+        "yesterday": 2,
+        "weekly": 0,
+        "total": 1030
       }
     },
     {
@@ -45,8 +45,8 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 8,
+        "yesterday": 0,
+        "weekly": 0,
         "total": 540
       }
     },
@@ -55,9 +55,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 3,
-        "total": 547
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 548
       }
     },
     {
@@ -65,9 +65,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 5,
-        "total": 568
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 569
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 17,
-        "weekly": 29,
-        "total": 1585
+        "yesterday": 7,
+        "weekly": 0,
+        "total": 1592
       }
     },
     {
@@ -85,8 +85,8 @@
       "filename": "plugin_srt",
       "display": "SRT 字幕文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 6,
+        "yesterday": 0,
+        "weekly": 0,
         "total": 387
       }
     },
@@ -95,8 +95,8 @@
       "filename": "plugin_svg",
       "display": "可缩放矢量图形",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 3,
+        "yesterday": 0,
+        "weekly": 0,
         "total": 100
       }
     },
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 15,
-        "total": 1041
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 1042
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 9,
-        "weekly": 16,
-        "total": 552
+        "yesterday": 2,
+        "weekly": 0,
+        "total": 554
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 13,
-        "weekly": 25,
-        "total": 1382
+        "yesterday": 3,
+        "weekly": 0,
+        "total": 1385
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 13,
-        "total": 712
+        "yesterday": 3,
+        "weekly": 0,
+        "total": 715
       }
     },
     {
@@ -145,8 +145,8 @@
       "filename": "plugin_vogen",
       "display": "Project Vogen 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 3,
+        "yesterday": 0,
+        "weekly": 0,
         "total": 356
       }
     },
@@ -155,8 +155,8 @@
       "filename": "plugin_y77",
       "display": "元七七工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 3,
+        "yesterday": 0,
+        "weekly": 0,
         "total": 324
       }
     }
