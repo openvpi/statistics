@@ -1,11 +1,10 @@
 {
-  "date": "2023-06-26",
+  "date": "2023-06-27",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        9,
         13,
         1,
         13,
@@ -14,9 +13,10 @@
         7,
         14,
         8,
-        13
+        13,
+        4
       ],
-      "total": 4098
+      "total": 4102
     }
   },
   "plugins": [
@@ -26,8 +26,8 @@
       "display": "ACE Studio 工程文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 21,
-        "total": 1194
+        "weekly": 0,
+        "total": 1195
       }
     },
     {
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 15,
-        "total": 1143
+        "yesterday": 7,
+        "weekly": 0,
+        "total": 1150
       }
     },
     {
@@ -45,9 +45,9 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 4,
-        "total": 594
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 595
       }
     },
     {
@@ -55,9 +55,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 6,
-        "total": 607
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 608
       }
     },
     {
@@ -65,9 +65,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 7,
-        "total": 633
+        "yesterday": 5,
+        "weekly": 0,
+        "total": 638
       }
     },
     {
@@ -76,8 +76,8 @@
       "display": "MIDI 文件",
       "downloads": {
         "yesterday": 3,
-        "weekly": 36,
-        "total": 1839
+        "weekly": 0,
+        "total": 1842
       }
     },
     {
@@ -85,9 +85,9 @@
       "filename": "plugin_srt",
       "display": "SRT 字幕文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 3,
-        "total": 428
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 429
       }
     },
     {
@@ -95,9 +95,9 @@
       "filename": "plugin_svg",
       "display": "可缩放矢量图形",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 5,
-        "total": 139
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 140
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 11,
-        "total": 1146
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 1147
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 9,
-        "total": 653
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 654
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 24,
-        "total": 1554
+        "yesterday": 3,
+        "weekly": 0,
+        "total": 1557
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 19,
-        "total": 856
+        "yesterday": 7,
+        "weekly": 0,
+        "total": 863
       }
     },
     {
@@ -145,9 +145,9 @@
       "filename": "plugin_vogen",
       "display": "Project Vogen 工程文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 3,
-        "total": 389
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 390
       }
     },
     {
@@ -155,9 +155,9 @@
       "filename": "plugin_y77",
       "display": "元七七工程文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 4,
-        "total": 364
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 365
       }
     }
   ]
