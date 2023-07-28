@@ -1,11 +1,10 @@
 {
-  "date": "2023-07-28",
+  "date": "2023-07-29",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        14,
         3,
         4,
         10,
@@ -14,9 +13,10 @@
         6,
         10,
         12,
-        9
+        9,
+        10
       ],
-      "total": 4371
+      "total": 4381
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 8,
-        "total": 1260
+        "total": 1261
       }
     },
     {
@@ -36,8 +36,8 @@
       "display": "DiffSinger 参数文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 8,
-        "total": 1209
+        "weekly": 9,
+        "total": 1210
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 11,
-        "total": 1989
+        "yesterday": 4,
+        "weekly": 14,
+        "total": 1993
       }
     },
     {
@@ -106,8 +106,8 @@
       "display": "X Studio 工程文件",
       "downloads": {
         "yesterday": 2,
-        "weekly": 5,
-        "total": 1210
+        "weekly": 7,
+        "total": 1212
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 8,
-        "total": 707
+        "yesterday": 5,
+        "weekly": 11,
+        "total": 712
       }
     },
     {
@@ -126,8 +126,8 @@
       "display": "Synthesizer V 工程文件",
       "downloads": {
         "yesterday": 3,
-        "weekly": 15,
-        "total": 1644
+        "weekly": 18,
+        "total": 1647
       }
     },
     {
@@ -136,8 +136,8 @@
       "display": "OpenUTAU 工程文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 11,
-        "total": 930
+        "weekly": 12,
+        "total": 931
       }
     },
     {
