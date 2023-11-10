@@ -1,11 +1,10 @@
 {
-  "date": "2023-11-10",
+  "date": "2023-11-11",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        1,
         6,
         0,
         0,
@@ -14,9 +13,10 @@
         11,
         6,
         4,
-        4
+        4,
+        1
       ],
-      "total": 4946
+      "total": 4947
     }
   },
   "plugins": [
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 3,
-        "total": 1349
+        "yesterday": 1,
+        "weekly": 6,
+        "total": 1350
       }
     },
     {
@@ -45,8 +45,8 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 3,
         "total": 685
       }
     },
@@ -65,9 +65,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 2,
-        "total": 750
+        "yesterday": 1,
+        "weekly": 4,
+        "total": 751
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 12,
-        "total": 2318
+        "yesterday": 1,
+        "weekly": 16,
+        "total": 2319
       }
     },
     {
@@ -85,8 +85,8 @@
       "filename": "plugin_srt",
       "display": "SRT 字幕文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 2,
         "total": 499
       }
     },
@@ -125,8 +125,8 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 8,
+        "yesterday": 0,
+        "weekly": 12,
         "total": 1883
       }
     },
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 5,
-        "weekly": 9,
-        "total": 1125
+        "yesterday": 1,
+        "weekly": 14,
+        "total": 1126
       }
     },
     {
