@@ -48,8 +48,9 @@ def raw(date=None):
     items = []
     if date is not None:
         path = os.path.join('logs', date)
-        for log in os.listdir(path):
-            items += read(os.path.join(path, log))
+        if os.path.exists(path):
+            for log in os.listdir(path):
+                items += read(os.path.join(path, log))
     else:
         for year in os.listdir('logs'):
             year_dir = os.path.join('logs', year)
