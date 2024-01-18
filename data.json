@@ -1,11 +1,10 @@
 {
-  "date": "2024-01-18",
+  "date": "2024-01-19",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        3,
         0,
         3,
         6,
@@ -14,9 +13,10 @@
         9,
         4,
         12,
-        10
+        10,
+        9
       ],
-      "total": 5239
+      "total": 5248
     }
   },
   "plugins": [
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 6,
-        "total": 1439
+        "yesterday": 2,
+        "weekly": 7,
+        "total": 1441
       }
     },
     {
@@ -55,9 +55,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 4,
-        "total": 754
+        "total": 755
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 6,
-        "weekly": 2,
-        "total": 2475
+        "yesterday": 4,
+        "weekly": 8,
+        "total": 2479
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 5,
-        "weekly": 9,
-        "total": 936
+        "yesterday": 4,
+        "weekly": 14,
+        "total": 940
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 5,
-        "weekly": 9,
-        "total": 2011
+        "yesterday": 2,
+        "weekly": 14,
+        "total": 2013
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 11,
-        "total": 1241
+        "yesterday": 7,
+        "weekly": 12,
+        "total": 1248
       }
     },
     {
