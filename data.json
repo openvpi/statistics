@@ -1,11 +1,10 @@
 {
-  "date": "2024-04-18",
+  "date": "2024-04-19",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        3,
         6,
         3,
         4,
@@ -14,9 +13,10 @@
         4,
         10,
         2,
-        1
+        1,
+        6
       ],
-      "total": 5584
+      "total": 5590
     }
   },
   "plugins": [
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 4,
-        "total": 2627
+        "total": 2628
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 8,
-        "total": 2167
+        "yesterday": 3,
+        "weekly": 9,
+        "total": 2170
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 4,
-        "total": 1345
+        "yesterday": 4,
+        "weekly": 5,
+        "total": 1349
       }
     },
     {
@@ -155,9 +155,9 @@
       "filename": "plugin_y77",
       "display": "元七七工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 2,
-        "total": 484
+        "yesterday": 2,
+        "weekly": 3,
+        "total": 486
       }
     }
   ]
