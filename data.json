@@ -1,11 +1,10 @@
 {
-  "date": "2024-06-21",
+  "date": "2024-06-22",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        1,
         6,
         0,
         1,
@@ -14,9 +13,10 @@
         2,
         6,
         2,
-        0
+        0,
+        1
       ],
-      "total": 5836
+      "total": 5837
     }
   },
   "plugins": [
@@ -65,9 +65,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 1,
-        "total": 887
+        "total": 888
       }
     },
     {
@@ -76,8 +76,8 @@
       "display": "MIDI 文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 8,
-        "total": 2749
+        "weekly": 9,
+        "total": 2750
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 4,
-        "total": 2281
+        "total": 2282
       }
     },
     {
