@@ -1,11 +1,10 @@
 {
-  "date": "2024-06-26",
+  "date": "2024-06-27",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        0,
         2,
         6,
         2,
@@ -14,9 +13,10 @@
         3,
         2,
         2,
-        7
+        7,
+        6
       ],
-      "total": 5851
+      "total": 5857
     }
   },
   "plugins": [
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 2,
-        "total": 1557
+        "total": 1558
       }
     },
     {
@@ -55,9 +55,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 0,
-        "total": 815
+        "total": 817
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 2,
-        "total": 2753
+        "total": 2754
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 2,
-        "total": 1496
+        "total": 1498
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 3,
         "weekly": 0,
-        "total": 1132
+        "total": 1135
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 3,
         "weekly": 0,
-        "total": 2290
+        "total": 2293
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 0,
-        "total": 1430
+        "total": 1432
       }
     },
     {
