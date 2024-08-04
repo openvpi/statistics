@@ -1,11 +1,10 @@
 {
-  "date": "2024-08-04",
+  "date": "2024-08-05",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        3,
         7,
         2,
         5,
@@ -14,9 +13,10 @@
         4,
         3,
         1,
-        5
+        5,
+        2
       ],
-      "total": 6010
+      "total": 6012
     }
   },
   "plugins": [
@@ -76,8 +76,8 @@
       "display": "MIDI 文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 7,
-        "total": 2831
+        "weekly": 8,
+        "total": 2832
       }
     },
     {
@@ -85,9 +85,9 @@
       "filename": "plugin_srt",
       "display": "SRT 字幕文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 0,
-        "total": 631
+        "total": 632
       }
     },
     {
