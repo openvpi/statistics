@@ -1,11 +1,10 @@
 {
-  "date": "2024-09-15",
+  "date": "2024-09-16",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        3,
         3,
         9,
         1,
@@ -14,9 +13,10 @@
         4,
         1,
         6,
-        0
+        0,
+        5
       ],
-      "total": 6170
+      "total": 6175
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 4,
-        "total": 1667
+        "yesterday": 3,
+        "weekly": 5,
+        "total": 1670
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 4,
         "weekly": 10,
-        "total": 2411
+        "total": 2415
       }
     },
     {
