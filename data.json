@@ -1,11 +1,10 @@
 {
-  "date": "2024-11-08",
+  "date": "2024-11-09",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        1,
         7,
         6,
         0,
@@ -14,7 +13,8 @@
         5,
         3,
         6,
-        6
+        6,
+        0
       ],
       "total": 6358
     }
@@ -25,8 +25,8 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 5,
+        "yesterday": 0,
+        "weekly": 7,
         "total": 1735
       }
     },
@@ -55,8 +55,8 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 1,
+        "yesterday": 0,
+        "weekly": 3,
         "total": 886
       }
     },
@@ -65,8 +65,8 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 1,
+        "yesterday": 0,
+        "weekly": 2,
         "total": 950
       }
     },
@@ -76,8 +76,8 @@
       "display": "MIDI 文件",
       "downloads": {
         "yesterday": 3,
-        "weekly": 10,
-        "total": 3015
+        "weekly": 13,
+        "total": 3018
       }
     },
     {
@@ -85,8 +85,8 @@
       "filename": "plugin_srt",
       "display": "SRT 字幕文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 1,
+        "yesterday": 0,
+        "weekly": 2,
         "total": 670
       }
     },
@@ -125,8 +125,8 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 3,
+        "yesterday": 0,
+        "weekly": 5,
         "total": 2473
       }
     },
