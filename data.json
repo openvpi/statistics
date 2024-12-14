@@ -1,11 +1,10 @@
 {
-  "date": "2024-12-14",
+  "date": "2024-12-15",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        4,
         1,
         2,
         4,
@@ -14,9 +13,10 @@
         3,
         8,
         2,
+        3,
         3
       ],
-      "total": 6490
+      "total": 6493
     }
   },
   "plugins": [
@@ -65,9 +65,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 6,
-        "total": 983
+        "total": 984
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 9,
-        "total": 3081
+        "total": 3082
       }
     },
     {
@@ -115,8 +115,8 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 4,
-        "weekly": 6,
+        "yesterday": 0,
+        "weekly": 10,
         "total": 1325
       }
     },
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 8,
-        "total": 2529
+        "yesterday": 1,
+        "weekly": 10,
+        "total": 2530
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 6,
-        "total": 1645
+        "total": 1647
       }
     },
     {
