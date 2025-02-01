@@ -1,11 +1,10 @@
 {
-  "date": "2025-02-01",
+  "date": "2025-02-02",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        4,
         4,
         5,
         1,
@@ -14,9 +13,10 @@
         6,
         1,
         4,
-        2
+        2,
+        1
       ],
-      "total": 6641
+      "total": 6642
     }
   },
   "plugins": [
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 1,
-        "total": 1680
+        "total": 1681
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 1,
-        "total": 2580
+        "yesterday": 1,
+        "weekly": 3,
+        "total": 2581
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 6,
         "weekly": 3,
-        "total": 1674
+        "total": 1680
       }
     },
     {
