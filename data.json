@@ -1,11 +1,10 @@
 {
-  "date": "2025-03-19",
+  "date": "2025-03-20",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        3,
         4,
         2,
         4,
@@ -14,9 +13,10 @@
         1,
         6,
         3,
-        2
+        2,
+        1
       ],
-      "total": 6798
+      "total": 6799
     }
   },
   "plugins": [
@@ -25,8 +25,8 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 1,
         "total": 1822
       }
     },
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 1,
-        "total": 1715
+        "total": 1716
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 1,
-        "total": 3229
+        "total": 3231
       }
     },
     {
@@ -126,8 +126,8 @@
       "display": "Synthesizer V 工程文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 2,
-        "total": 2648
+        "weekly": 3,
+        "total": 2649
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 2,
-        "total": 1752
+        "total": 1753
       }
     },
     {
