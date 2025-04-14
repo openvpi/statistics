@@ -1,11 +1,10 @@
 {
-  "date": "2025-04-14",
+  "date": "2025-04-15",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        3,
         4,
         4,
         2,
@@ -14,9 +13,10 @@
         0,
         3,
         2,
-        3
+        3,
+        1
       ],
-      "total": 6858
+      "total": 6859
     }
   },
   "plugins": [
@@ -25,8 +25,8 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 1,
+        "yesterday": 0,
+        "weekly": 0,
         "total": 1836
       }
     },
@@ -56,7 +56,7 @@
       "display": "OpenSVIP Model 文件",
       "downloads": {
         "yesterday": 0,
-        "weekly": 1,
+        "weekly": 0,
         "total": 947
       }
     },
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 3,
-        "total": 3252
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 3253
       }
     },
     {
@@ -96,7 +96,7 @@
       "display": "可缩放矢量图形",
       "downloads": {
         "yesterday": 0,
-        "weekly": 1,
+        "weekly": 0,
         "total": 348
       }
     },
@@ -105,8 +105,8 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 1,
+        "yesterday": 0,
+        "weekly": 0,
         "total": 1706
       }
     },
@@ -115,8 +115,8 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 2,
+        "yesterday": 0,
+        "weekly": 0,
         "total": 1471
       }
     },
@@ -126,7 +126,7 @@
       "display": "Synthesizer V 工程文件",
       "downloads": {
         "yesterday": 0,
-        "weekly": 5,
+        "weekly": 0,
         "total": 2675
       }
     },
@@ -136,7 +136,7 @@
       "display": "OpenUTAU 工程文件",
       "downloads": {
         "yesterday": 0,
-        "weekly": 2,
+        "weekly": 0,
         "total": 1769
       }
     },
