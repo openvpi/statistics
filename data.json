@@ -1,11 +1,10 @@
 {
-  "date": "2025-04-29",
+  "date": "2025-04-30",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        4,
         8,
         2,
         1,
@@ -14,7 +13,8 @@
         4,
         3,
         2,
-        2
+        2,
+        0
       ],
       "total": 6903
     }
@@ -75,8 +75,8 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 2,
         "total": 3274
       }
     },
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 0,
-        "total": 1718
+        "total": 1719
       }
     },
     {
