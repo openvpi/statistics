@@ -1,11 +1,10 @@
 {
-  "date": "2025-07-26",
+  "date": "2025-07-27",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        1,
         2,
         4,
         2,
@@ -14,9 +13,10 @@
         5,
         1,
         2,
-        0
+        0,
+        2
       ],
-      "total": 7158
+      "total": 7160
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 7,
-        "total": 1892
+        "yesterday": 2,
+        "weekly": 8,
+        "total": 1894
       }
     },
     {
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 6,
-        "total": 1792
+        "total": 1793
       }
     },
     {
@@ -45,9 +45,9 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 3,
-        "total": 917
+        "total": 919
       }
     },
     {
@@ -55,9 +55,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 3,
-        "total": 998
+        "total": 1000
       }
     },
     {
@@ -65,9 +65,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 4,
-        "total": 1083
+        "total": 1084
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 11,
-        "total": 3379
+        "yesterday": 3,
+        "weekly": 12,
+        "total": 3382
       }
     },
     {
@@ -85,9 +85,9 @@
       "filename": "plugin_srt",
       "display": "SRT 字幕文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 4,
-        "total": 762
+        "total": 763
       }
     },
     {
@@ -95,9 +95,9 @@
       "filename": "plugin_svg",
       "display": "可缩放矢量图形",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 4,
-        "total": 396
+        "total": 397
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 6,
-        "total": 1782
+        "total": 1784
       }
     },
     {
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 6,
-        "total": 1573
+        "total": 1575
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 2,
         "weekly": 14,
-        "total": 2818
+        "total": 2820
       }
     },
     {
@@ -135,9 +135,9 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 5,
-        "total": 1868
+        "total": 1869
       }
     },
     {
@@ -145,9 +145,9 @@
       "filename": "plugin_vogen",
       "display": "Project Vogen 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 2,
-        "total": 635
+        "total": 636
       }
     },
     {
@@ -155,9 +155,9 @@
       "filename": "plugin_y77",
       "display": "元七七工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 3,
-        "total": 610
+        "total": 611
       }
     }
   ]
