@@ -1,11 +1,10 @@
 {
-  "date": "2025-09-19",
+  "date": "2025-09-20",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        2,
         2,
         2,
         0,
@@ -14,9 +13,10 @@
         3,
         2,
         0,
-        3
+        3,
+        4
       ],
-      "total": 7285
+      "total": 7289
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 0,
-        "total": 1919
+        "total": 1920
       }
     },
     {
@@ -35,9 +35,9 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
-        "total": 1822
+        "yesterday": 4,
+        "weekly": 2,
+        "total": 1826
       }
     },
     {
@@ -45,8 +45,8 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 2,
         "total": 931
       }
     },
@@ -76,8 +76,8 @@
       "display": "MIDI 文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 1,
-        "total": 3425
+        "weekly": 2,
+        "total": 3426
       }
     },
     {
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 1,
-        "total": 1813
+        "yesterday": 1,
+        "weekly": 3,
+        "total": 1814
       }
     },
     {
@@ -116,8 +116,8 @@
       "display": "X Studio 3 工程文件",
       "downloads": {
         "yesterday": 2,
-        "weekly": 2,
-        "total": 1611
+        "weekly": 4,
+        "total": 1613
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 0,
-        "total": 2878
+        "total": 2879
       }
     },
     {
