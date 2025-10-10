@@ -1,11 +1,10 @@
 {
-  "date": "2025-10-10",
+  "date": "2025-10-11",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        4,
         4,
         3,
         2,
@@ -14,9 +13,10 @@
         8,
         3,
         3,
-        1
+        1,
+        2
       ],
-      "total": 7353
+      "total": 7355
     }
   },
   "plugins": [
@@ -65,8 +65,8 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 2,
+        "yesterday": 0,
+        "weekly": 3,
         "total": 1109
       }
     },
