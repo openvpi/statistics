@@ -1,11 +1,10 @@
 {
-  "date": "2025-10-15",
+  "date": "2025-10-16",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        2,
         8,
         3,
         3,
@@ -14,9 +13,10 @@
         2,
         0,
         3,
+        2,
         2
       ],
-      "total": 7362
+      "total": 7364
     }
   },
   "plugins": [
@@ -25,8 +25,8 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 1,
         "total": 1935
       }
     },
@@ -55,9 +55,9 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 0,
-        "total": 1018
+        "total": 1019
       }
     },
     {
