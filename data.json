@@ -1,11 +1,10 @@
 {
-  "date": "2026-01-21",
+  "date": "2026-01-22",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        2,
         2,
         4,
         3,
@@ -14,7 +13,8 @@
         4,
         2,
         1,
-        1
+        1,
+        0
       ],
       "total": 7601
     }
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 0,
-        "total": 3510
+        "total": 3511
       }
     },
     {
