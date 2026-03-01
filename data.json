@@ -1,11 +1,10 @@
 {
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        3,
         4,
         1,
         1,
@@ -14,9 +13,10 @@
         4,
         2,
         4,
-        3
+        3,
+        4
       ],
-      "total": 7677
+      "total": 7681
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 3,
-        "total": 1975
+        "total": 1976
       }
     },
     {
@@ -35,8 +35,8 @@
       "filename": "plugin_diffsinger",
       "display": "DiffSinger 参数文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 1,
+        "yesterday": 0,
+        "weekly": 2,
         "total": 1872
       }
     },
@@ -55,8 +55,8 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 1,
+        "yesterday": 0,
+        "weekly": 2,
         "total": 1042
       }
     },
@@ -75,8 +75,8 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 5,
+        "yesterday": 0,
+        "weekly": 7,
         "total": 3537
       }
     },
@@ -105,8 +105,8 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 1,
         "total": 1870
       }
     },
@@ -115,8 +115,8 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 2,
+        "yesterday": 0,
+        "weekly": 3,
         "total": 1668
       }
     },
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 4,
-        "total": 3007
+        "yesterday": 3,
+        "weekly": 6,
+        "total": 3010
       }
     },
     {
@@ -136,8 +136,8 @@
       "display": "OpenUTAU 工程文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 2,
-        "total": 1981
+        "weekly": 3,
+        "total": 1982
       }
     },
     {
@@ -145,8 +145,8 @@
       "filename": "plugin_vogen",
       "display": "Project Vogen 工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 1,
         "total": 668
       }
     },
