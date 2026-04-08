@@ -1,11 +1,10 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        2,
         4,
         2,
         3,
@@ -14,9 +13,10 @@
         4,
         6,
         0,
+        1,
         1
       ],
-      "total": 7754
+      "total": 7755
     }
   },
   "plugins": [
