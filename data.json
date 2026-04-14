@@ -1,11 +1,10 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        4,
         6,
         0,
         1,
@@ -14,9 +13,10 @@
         4,
         6,
         3,
+        1,
         1
       ],
-      "total": 7772
+      "total": 7773
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 0,
-        "total": 1987
+        "total": 1988
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 0,
-        "total": 3558
+        "total": 3559
       }
     },
     {
