@@ -1,11 +1,10 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        3,
         2,
         2,
         1,
@@ -14,9 +13,10 @@
         2,
         1,
         2,
-        2
+        2,
+        1
       ],
-      "total": 7937
+      "total": 7938
     }
   },
   "plugins": [
@@ -45,9 +45,9 @@
       "filename": "plugin_gjgj",
       "display": "歌叽歌叽工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 0,
-        "total": 957
+        "total": 958
       }
     },
     {
