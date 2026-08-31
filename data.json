@@ -1,11 +1,10 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        5,
         0,
         3,
         3,
@@ -14,9 +13,10 @@
         5,
         2,
         3,
-        4
+        4,
+        5
       ],
-      "total": 8160
+      "total": 8165
     }
   },
   "plugins": [
@@ -25,9 +25,9 @@
       "filename": "plugin_ace",
       "display": "ACE Studio 工程文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 4,
-        "total": 2039
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 2040
       }
     },
     {
@@ -65,9 +65,9 @@
       "filename": "plugin_lrc",
       "display": "LRC 歌词文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 0,
-        "total": 1192
+        "total": 1193
       }
     },
     {
@@ -75,9 +75,9 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 4,
-        "total": 3654
+        "yesterday": 2,
+        "weekly": 0,
+        "total": 3656
       }
     },
     {
@@ -106,7 +106,7 @@
       "display": "X Studio 工程文件",
       "downloads": {
         "yesterday": 0,
-        "weekly": 1,
+        "weekly": 0,
         "total": 1950
       }
     },
@@ -116,8 +116,8 @@
       "display": "X Studio 3 工程文件",
       "downloads": {
         "yesterday": 1,
-        "weekly": 5,
-        "total": 1777
+        "weekly": 0,
+        "total": 1778
       }
     },
     {
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 0,
-        "weekly": 9,
-        "total": 3190
+        "yesterday": 1,
+        "weekly": 0,
+        "total": 3191
       }
     },
     {
@@ -136,7 +136,7 @@
       "display": "OpenUTAU 工程文件",
       "downloads": {
         "yesterday": 0,
-        "weekly": 2,
+        "weekly": 0,
         "total": 2093
       }
     },
