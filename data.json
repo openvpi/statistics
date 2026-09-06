@@ -1,11 +1,10 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        5,
         2,
         3,
         4,
@@ -14,9 +13,10 @@
         2,
         5,
         1,
-        0
+        0,
+        2
       ],
-      "total": 8175
+      "total": 8177
     }
   },
   "plugins": [
@@ -115,9 +115,9 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 0,
+        "yesterday": 1,
         "weekly": 4,
-        "total": 1781
+        "total": 1782
       }
     },
     {
