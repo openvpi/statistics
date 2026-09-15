@@ -1,11 +1,10 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "converter": {
     "filename": "converter",
     "display": "OpenSVIP 歌声合成工程文件转换器",
     "downloads": {
       "recent": [
-        0,
         2,
         4,
         1,
@@ -14,9 +13,10 @@
         5,
         3,
         5,
-        4
+        4,
+        1
       ],
-      "total": 8205
+      "total": 8206
     }
   },
   "plugins": [
@@ -55,8 +55,8 @@
       "filename": "plugin_jsonsvip",
       "display": "OpenSVIP Model 文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 2,
         "total": 1080
       }
     },
@@ -75,8 +75,8 @@
       "filename": "plugin_midi",
       "display": "MIDI 文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 2,
         "total": 3661
       }
     },
@@ -85,8 +85,8 @@
       "filename": "plugin_srt",
       "display": "SRT 字幕文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 1,
         "total": 837
       }
     },
@@ -105,9 +105,9 @@
       "filename": "plugin_binsvip",
       "display": "X Studio 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
-        "total": 1956
+        "yesterday": 1,
+        "weekly": 2,
+        "total": 1957
       }
     },
     {
@@ -115,8 +115,8 @@
       "filename": "plugin_svip3",
       "display": "X Studio 3 工程文件",
       "downloads": {
-        "yesterday": 2,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 2,
         "total": 1786
       }
     },
@@ -125,9 +125,9 @@
       "filename": "plugin_synthv",
       "display": "Synthesizer V 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 0,
-        "total": 3202
+        "yesterday": 1,
+        "weekly": 3,
+        "total": 3203
       }
     },
     {
@@ -135,8 +135,8 @@
       "filename": "plugin_ustx",
       "display": "OpenUTAU 工程文件",
       "downloads": {
-        "yesterday": 3,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 3,
         "total": 2098
       }
     },
@@ -155,8 +155,8 @@
       "filename": "plugin_y77",
       "display": "元七七工程文件",
       "downloads": {
-        "yesterday": 1,
-        "weekly": 0,
+        "yesterday": 0,
+        "weekly": 1,
         "total": 660
       }
     }
